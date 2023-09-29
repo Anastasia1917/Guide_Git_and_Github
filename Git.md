@@ -17,6 +17,12 @@
 - ***git log***
 - ***git checkout***
 - ***git diff***
+- ***git branch***
+- ***git branch name***
+- ***git branch -d name***
+- ***git checkout branch_name***
+- ***git log --graph***
+- ***git merge***
 
 ##
 
